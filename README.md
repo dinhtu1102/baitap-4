@@ -39,7 +39,7 @@ BÀI LÀM:
 
  ![image](https://github.com/user-attachments/assets/22f6aea4-d57c-4e2b-9954-f8c208fc53e5)
 
-+ thiết lập khóa ngoại :
++ thiết lập khóa ngoại:
   
   ![image](https://github.com/user-attachments/assets/76607f7e-3b4e-46b9-8b4e-d6106cff8ef2)
 
@@ -47,7 +47,7 @@ BÀI LÀM:
   
  ![image](https://github.com/user-attachments/assets/6f2553cf-a408-4a1a-87ea-4426514d0999)
 
- + thiết lập các kháo ngoại
+ + thiết lập các khóa ngoại
    
  ![image](https://github.com/user-attachments/assets/8fa02d48-8bab-482c-817d-c28063f0665a)
 
