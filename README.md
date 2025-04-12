@@ -37,7 +37,7 @@ BÀI LÀM:
 
 + bảng " lophoc " và thêm các thông tin vào bảng
 
- ![image](https://github.com/user-attachments/assets/00115faa-cdb7-4b01-a1c0-55e480a8fd91)
+ ![image](https://github.com/user-attachments/assets/22f6aea4-d57c-4e2b-9954-f8c208fc53e5)
 
 + thiết lập khóa ngoại :
   
@@ -53,7 +53,7 @@ BÀI LÀM:
 
 + bảng " tkb " và thêm các thông tin vào bảng
   
- ![image](https://github.com/user-attachments/assets/760a81e7-2bf5-4835-9ded-09fcd00f9aff)
+ ![image](https://github.com/user-attachments/assets/2f84de8e-12af-43be-84fd-8aefb35f57f6)
 
 + thiết lập khóa ngoại
   
