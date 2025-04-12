@@ -61,6 +61,9 @@ BÀI LÀM:
 
 + Liên kết khóa ngoại và khóa chính các bảng với nhau
 
+![image](https://github.com/user-attachments/assets/d53dae1f-27f1-49b1-8bb7-3fff63416eff)
+
+
  ![image](https://github.com/user-attachments/assets/a4892a51-c8d9-43ef-98c6-fba982aac384)
 
 + trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
