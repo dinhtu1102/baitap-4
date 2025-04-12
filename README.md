@@ -17,14 +17,34 @@ Gợi ý:
 deadline: 15/4/2025
 
 BÀI LÀM:
-1 Tạo bảng sql mới 
+1 Tạo bảng sql mới
+
  ![image](https://github.com/user-attachments/assets/4cc9955f-9c9a-4255-bc3e-cd3c3bb7c165)
-2 thiết lập 4 bảng 
+
+2 Nguyền dữ liệu thông tin của thời khóa biểu
+
+ ![image](https://github.com/user-attachments/assets/0dd0032e-695c-4245-bdb5-d1482a08cd8d)
+
+3 thiết lập 4 bảng 
+
 + bảng " giaovien " và thêm thông tin vào bảng
-![image](https://github.com/user-attachments/assets/94afde95-3c50-4dac-8fa1-a45d61467a9f)
+  
+ ![image](https://github.com/user-attachments/assets/94afde95-3c50-4dac-8fa1-a45d61467a9f)
 
 + bảng " lophoc " và thêm các thông tin vào bảng
 
+ ![image](https://github.com/user-attachments/assets/00115faa-cdb7-4b01-a1c0-55e480a8fd91)
+
 + bảng " monhoc " và thêm các thông tin vào bảng
+  
+ ![image](https://github.com/user-attachments/assets/6f2553cf-a408-4a1a-87ea-4426514d0999)
 
 + bảng " tkb " và thêm các thông tin vào bảng
+  
+ ![image](https://github.com/user-attachments/assets/760a81e7-2bf5-4835-9ded-09fcd00f9aff)
+
++ Liên kết khóa ngoại và khóa chính các bảng với nhau
+
+ ![image](https://github.com/user-attachments/assets/a4892a51-c8d9-43ef-98c6-fba982aac384)
+
++ trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
