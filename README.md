@@ -19,17 +19,17 @@ deadline: 15/4/2025
 BÀI LÀM:
 1 Tạo bảng sql mới
 
- ![image](https://github.com/user-attachments/assets/4cc9955f-9c9a-4255-bc3e-cd3c3bb7c165)
+  ![image](https://github.com/user-attachments/assets/4cc9955f-9c9a-4255-bc3e-cd3c3bb7c165)
 
 2 Nguyền dữ liệu thông tin của thời khóa biểu
 
- ![image](https://github.com/user-attachments/assets/0dd0032e-695c-4245-bdb5-d1482a08cd8d)
+  ![image](https://github.com/user-attachments/assets/0dd0032e-695c-4245-bdb5-d1482a08cd8d)
 
 3 thiết lập 4 bảng 
 
 + bảng " giaovien " và thêm thông tin vào bảng
   
- ![image](https://github.com/user-attachments/assets/94afde95-3c50-4dac-8fa1-a45d61467a9f)
+  ![image](https://github.com/user-attachments/assets/94afde95-3c50-4dac-8fa1-a45d61467a9f)
 
 + thiết lập các khóa ngoại:
   
@@ -37,7 +37,7 @@ BÀI LÀM:
 
 + bảng " lophoc " và thêm các thông tin vào bảng
 
- ![image](https://github.com/user-attachments/assets/22f6aea4-d57c-4e2b-9954-f8c208fc53e5)
+  ![image](https://github.com/user-attachments/assets/22f6aea4-d57c-4e2b-9954-f8c208fc53e5)
 
 + thiết lập khóa ngoại:
   
@@ -45,23 +45,23 @@ BÀI LÀM:
 
 + bảng " monhoc " và thêm các thông tin vào bảng
   
- ![image](https://github.com/user-attachments/assets/6f2553cf-a408-4a1a-87ea-4426514d0999)
+  ![image](https://github.com/user-attachments/assets/6f2553cf-a408-4a1a-87ea-4426514d0999)
 
  + thiết lập các khóa ngoại
    
- ![image](https://github.com/user-attachments/assets/8fa02d48-8bab-482c-817d-c28063f0665a)
+  ![image](https://github.com/user-attachments/assets/8fa02d48-8bab-482c-817d-c28063f0665a)
 
 + bảng " tkb " và thêm các thông tin vào bảng
   
- ![image](https://github.com/user-attachments/assets/b024523e-c577-475f-b548-8ca799c0940a)
+  ![image](https://github.com/user-attachments/assets/b024523e-c577-475f-b548-8ca799c0940a)
 
 + thiết lập khóa ngoại
   
- ![image](https://github.com/user-attachments/assets/c96ec582-b40f-4d0a-8842-eb034c91f69e)
+  ![image](https://github.com/user-attachments/assets/c96ec582-b40f-4d0a-8842-eb034c91f69e)
 
 + Liên kết khóa ngoại và khóa chính các bảng với nhau
 
- ![image](https://github.com/user-attachments/assets/a4892a51-c8d9-43ef-98c6-fba982aac384)
+  ![image](https://github.com/user-attachments/assets/a4892a51-c8d9-43ef-98c6-fba982aac384)
 
  4 Tạo được query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra.
  
@@ -78,4 +78,5 @@ BÀI LÀM:
   ![image](https://github.com/user-attachments/assets/b8369566-04dc-4b37-b996-6cd24bfc9eec)
 
 + kết quả thực sau khi truy vấn:
- ![image](https://github.com/user-attachments/assets/346c2bc2-9056-4595-9ac3-414e95fdd433)
+  ![image](https://github.com/user-attachments/assets/c4580d30-6793-4758-b889-ed39692c4e8d)
+
