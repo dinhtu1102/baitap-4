@@ -53,7 +53,7 @@ BÀI LÀM:
 
 + bảng " tkb " và thêm các thông tin vào bảng
   
- ![image](https://github.com/user-attachments/assets/2f84de8e-12af-43be-84fd-8aefb35f57f6)
+ ![image](https://github.com/user-attachments/assets/b024523e-c577-475f-b548-8ca799c0940a)
 
 + thiết lập khóa ngoại
   
@@ -61,9 +61,21 @@ BÀI LÀM:
 
 + Liên kết khóa ngoại và khóa chính các bảng với nhau
 
-![image](https://github.com/user-attachments/assets/d53dae1f-27f1-49b1-8bb7-3fff63416eff)
-
-
  ![image](https://github.com/user-attachments/assets/a4892a51-c8d9-43ef-98c6-fba982aac384)
 
-+ trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
+ 4 Tạo được query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra.
+ 
+  ![image](https://github.com/user-attachments/assets/f5b09580-ddcc-4afe-b13a-a73225c64354)
+  
++ in ra kết quả thực hiện.
+  
+  ![image](https://github.com/user-attachments/assets/4a127585-1cb0-4b71-b710-323d7f60c788)
+
+5 trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
+
++ code thực hiện:
+  
+  ![image](https://github.com/user-attachments/assets/b8369566-04dc-4b37-b996-6cd24bfc9eec)
+
++ kết quả thực sau khi truy vấn:
+ ![image](https://github.com/user-attachments/assets/346c2bc2-9056-4595-9ac3-414e95fdd433)
